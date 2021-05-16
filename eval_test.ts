@@ -48,7 +48,3 @@ my_eval(x);
 var y = "r2c";
 // ruleid:juice-shop-eval
 my_eval(y);
-
-var z = "r2c2";
-//ruleid:juice-shop-eval
-my_eval(z);
